@@ -1,0 +1,3 @@
+# APP
+android or IOS applications
+Heres go my application that I wrote. notice that some of them are not compelete yet...
