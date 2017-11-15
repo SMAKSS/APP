@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:3:2-32
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:4:2-29
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:3:33-57
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:4:30-68
+application
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:6:2-82:16
+	android:label
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:6:52-84
+	android:icon
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:6:15-51
+activity#com.SMAli.apptracker.AppTrackerActivity
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:7:3-13:14
+	android:label
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:7:48-80
+	android:configChanges
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:8:3-62
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:7:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:11:15-62
+activity#com.SMAli.apptracker.AppTrackerWidgetConfiguration
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:15:3-20:14
+	android:label
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:16:4-46
+	android:configChanges
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:16:47-106
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:15:13-58
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:17:4-19:20
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:18:13-72
+activity#com.SMAli.apptracker.SettingsActivity
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:23:3-24:98
+	android:label
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:24:4-36
+	android:configChanges
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:24:37-96
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.SMAli.apptracker.HtmlFileActivity
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:26:3-92
+	android:theme
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:26:46-89
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:26:13-45
+receiver#com.SMAli.apptracker.AppTrackerWidgetProvider
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:28:3-76:14
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:28:13-53
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:29:4-31:20
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:30:13-69
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:38:4-41:20
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:39:13-64
+category#android.intent.category.HOME
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:40:5-61
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:40:15-58
+intent-filter#com.SMAli.apptracker.action.PAGE_UPDATE_FORWARD
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:44:4-47:20
+action#com.SMAli.apptracker.action.PAGE_UPDATE_FORWARD
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:45:5-78
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:45:13-75
+data
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:46:5-49
+	android:scheme
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:46:11-46
+intent-filter#com.SMAli.apptracker.action.PAGE_UPDATE_BACK
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:49:4-52:20
+action#com.SMAli.apptracker.action.PAGE_UPDATE_BACK
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:50:5-75
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:50:13-72
+intent-filter#com.SMAli.apptracker.action.RESTART_SERVICE
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:54:4-57:20
+action#com.SMAli.apptracker.action.RESTART_SERVICE
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:55:5-74
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:55:13-71
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:59:4-62:20
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:60:5-68
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:60:13-66
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:64:4-67:20
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:65:5-67
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:65:13-65
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:69:4-72:20
+action#android.intent.action.PACKAGE_ADDED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:70:5-65
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:70:13-63
+meta-data#android.appwidget.provider
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:74:4-75:51
+	android:resource
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:75:5-48
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:74:15-56
+service#com.SMAli.apptracker.AppTrackerService
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:78:3-48
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:78:12-45
+service#com.SMAli.apptracker.UpdateAppStatsService
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:80:3-52
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:80:12-49
+uses-sdk
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:85:2-70
+	android:targetSdkVersion
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:85:38-67
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:85:12-37
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:86:2-65
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:86:19-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:87:2-77
+	android:name
+		ADDED from F:\Android Project AS\AppTracker\app\src\main\AndroidManifest.xml:87:19-75

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focused_application_background.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\focused_application_background.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_bubble.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\red_bubble.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_star.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_star.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_recent_history.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_recent_history.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_sort_alphabetically.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_sort_alphabetically.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_backup.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\bubble_backup.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\holmes_icon.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\holmes_icon.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\holmes_icon_hdpi.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\holmes_icon_hdpi.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_star_off.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_star_off.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_small.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\bubble_small.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_clock.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_clock.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_blibbet.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_launcher_blibbet.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_add.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_application_background.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\pressed_application_background.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_refresh.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_appwidget_error.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\bg_appwidget_error.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\service_notification_1.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\service_notification_1.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_selector.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable\\app_selector.xml"
+    }
+]

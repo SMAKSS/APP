@@ -1,0 +1,1860 @@
+[
+    {
+        "outputFile": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 16,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 14,
+                        "endLine": 7,
+                        "endColumn": 16,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1016,
+                        "endLine": 37,
+                        "endColumn": 16,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endLine": 25,
+                    "endColumn": 16,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 571,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endLine": 34,
+                    "endColumn": 16,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 190,
+                        "endLine": 17,
+                        "endColumn": 16,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 58,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 13,
+                        "endColumn": 55,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 45,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 69,
+                        "endColumn": 42,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 39,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4871,
+                        "endColumn": 39,
+                        "endOffset": 4906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 63,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4911,
+                        "endColumn": 63,
+                        "endOffset": 4970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 45,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5992,
+                        "endColumn": 45,
+                        "endOffset": 6033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 53,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5121,
+                        "endColumn": 53,
+                        "endOffset": 5170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1595,
+                    "endColumn": 48,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 48,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 53,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5175,
+                        "endColumn": 53,
+                        "endOffset": 5224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 72,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5622,
+                        "endColumn": 72,
+                        "endOffset": 5690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 49,
+                    "endOffset": 1816
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2358,
+                        "endColumn": 49,
+                        "endOffset": 2403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1821,
+                    "endColumn": 70,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3082,
+                        "endColumn": 70,
+                        "endOffset": 3148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endColumn": 91,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3219,
+                        "endColumn": 91,
+                        "endOffset": 3306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endColumn": 65,
+                    "endOffset": 2045
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3153,
+                        "endColumn": 65,
+                        "endOffset": 3214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2050,
+                    "endColumn": 43,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 43,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 98,
+                    "endOffset": 2188
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5022,
+                        "endColumn": 98,
+                        "endOffset": 5116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2193,
+                    "endColumn": 39,
+                    "endOffset": 2228
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5952,
+                        "endColumn": 39,
+                        "endOffset": 5987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2233,
+                    "endColumn": 50,
+                    "endOffset": 2279
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6214,
+                        "endColumn": 50,
+                        "endOffset": 6260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2284,
+                    "endColumn": 48,
+                    "endOffset": 2328
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6165,
+                        "endColumn": 48,
+                        "endOffset": 6209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2333,
+                    "endColumn": 54,
+                    "endOffset": 2383
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6265,
+                        "endColumn": 54,
+                        "endOffset": 6315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2388,
+                    "endColumn": 59,
+                    "endOffset": 2443
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 59,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2448,
+                    "endColumn": 54,
+                    "endOffset": 2498
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5379,
+                        "endColumn": 54,
+                        "endOffset": 5429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2503,
+                    "endColumn": 64,
+                    "endOffset": 2563
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5229,
+                        "endColumn": 64,
+                        "endOffset": 5289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2568,
+                    "endColumn": 84,
+                    "endOffset": 2648
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5294,
+                        "endColumn": 84,
+                        "endOffset": 5374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2653,
+                    "endColumn": 37,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5914,
+                        "endColumn": 37,
+                        "endOffset": 5947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 78,
+                    "endOffset": 2765
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3607,
+                        "endColumn": 78,
+                        "endOffset": 3681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2770,
+                    "endColumn": 116,
+                    "endOffset": 2882
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3756,
+                        "endColumn": 116,
+                        "endOffset": 3868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2887,
+                    "endColumn": 69,
+                    "endOffset": 2952
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3686,
+                        "endColumn": 69,
+                        "endOffset": 3751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2957,
+                    "endLine": 67,
+                    "endColumn": 9,
+                    "endOffset": 3176
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6320,
+                        "endLine": 105,
+                        "endColumn": 9,
+                        "endOffset": 6539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3181,
+                    "endColumn": 58,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6038,
+                        "endColumn": 58,
+                        "endOffset": 6092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 67,
+                    "endOffset": 3303
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6097,
+                        "endColumn": 67,
+                        "endOffset": 6160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3308,
+                    "endColumn": 43,
+                    "endOffset": 3347
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 46,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3352,
+                    "endColumn": 105,
+                    "endOffset": 3453
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5434,
+                        "endColumn": 105,
+                        "endOffset": 5535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3458,
+                    "endColumn": 55,
+                    "endOffset": 3509
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4721,
+                        "endColumn": 55,
+                        "endOffset": 4772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3514,
+                    "endColumn": 43,
+                    "endOffset": 3553
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2314,
+                        "endColumn": 43,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3558,
+                    "endColumn": 66,
+                    "endOffset": 3620
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3625,
+                    "endColumn": 68,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2408,
+                        "endColumn": 68,
+                        "endOffset": 2472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endColumn": 72,
+                    "endOffset": 3762
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2542,
+                        "endColumn": 72,
+                        "endOffset": 2610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3767,
+                    "endColumn": 64,
+                    "endOffset": 3827
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2477,
+                        "endColumn": 64,
+                        "endOffset": 2537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3832,
+                    "endColumn": 98,
+                    "endOffset": 3926
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 98,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3931,
+                    "endColumn": 64,
+                    "endOffset": 3991
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 64,
+                        "endOffset": 2153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3996,
+                    "endColumn": 95,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 95,
+                        "endOffset": 2309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endColumn": 59,
+                    "endOffset": 4147
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2158,
+                        "endColumn": 59,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4152,
+                    "endColumn": 46,
+                    "endOffset": 4194
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4975,
+                        "endColumn": 46,
+                        "endOffset": 5017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4199,
+                    "endColumn": 58,
+                    "endOffset": 4253
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1868,
+                        "endColumn": 58,
+                        "endOffset": 1922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4258,
+                    "endColumn": 108,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1981,
+                        "endColumn": 111,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endColumn": 53,
+                    "endOffset": 4416
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1927,
+                        "endColumn": 53,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4421,
+                    "endColumn": 81,
+                    "endOffset": 4498
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5540,
+                        "endColumn": 81,
+                        "endOffset": 5617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4503,
+                    "endColumn": 77,
+                    "endOffset": 4576
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5695,
+                        "endColumn": 77,
+                        "endOffset": 5768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4581,
+                    "endColumn": 68,
+                    "endOffset": 4645
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5845,
+                        "endColumn": 68,
+                        "endOffset": 5909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4650,
+                    "endColumn": 71,
+                    "endOffset": 4717
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5773,
+                        "endColumn": 71,
+                        "endOffset": 5840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4722,
+                    "endColumn": 62,
+                    "endOffset": 4780
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 62,
+                        "endOffset": 1720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4785,
+                    "endColumn": 83,
+                    "endOffset": 4864
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 83,
+                        "endOffset": 1863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4869,
+                    "endColumn": 58,
+                    "endOffset": 4923
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1725,
+                        "endColumn": 58,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4928,
+                    "endColumn": 43,
+                    "endOffset": 4967
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4827,
+                        "endColumn": 43,
+                        "endOffset": 4866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4972,
+                    "endColumn": 71,
+                    "endOffset": 5039
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4135,
+                        "endColumn": 71,
+                        "endOffset": 4202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5044,
+                    "endColumn": 84,
+                    "endOffset": 5124
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4263,
+                        "endColumn": 84,
+                        "endOffset": 4343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5129,
+                    "endColumn": 55,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4207,
+                        "endColumn": 55,
+                        "endOffset": 4258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endColumn": 90,
+                    "endOffset": 5271
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4584,
+                        "endColumn": 90,
+                        "endOffset": 4670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5276,
+                    "endColumn": 75,
+                    "endOffset": 5347
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4358,
+                        "endColumn": 75,
+                        "endOffset": 4429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5352,
+                    "endColumn": 80,
+                    "endOffset": 5428
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4500,
+                        "endColumn": 80,
+                        "endOffset": 4576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5433,
+                    "endColumn": 65,
+                    "endOffset": 5494
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4434,
+                        "endColumn": 65,
+                        "endOffset": 4495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5499,
+                    "endColumn": 45,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4675,
+                        "endColumn": 45,
+                        "endOffset": 4716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endColumn": 70,
+                    "endOffset": 5611
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2615,
+                        "endColumn": 70,
+                        "endOffset": 2681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5616,
+                    "endColumn": 88,
+                    "endOffset": 5700
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2752,
+                        "endColumn": 88,
+                        "endOffset": 2836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5705,
+                    "endColumn": 65,
+                    "endOffset": 5766
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2686,
+                        "endColumn": 65,
+                        "endOffset": 2747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5771,
+                    "endColumn": 79,
+                    "endOffset": 5846
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3876,
+                        "endColumn": 79,
+                        "endOffset": 3951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5851,
+                    "endColumn": 106,
+                    "endOffset": 5953
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4026,
+                        "endColumn": 106,
+                        "endOffset": 4128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5958,
+                    "endColumn": 69,
+                    "endOffset": 6023
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3956,
+                        "endColumn": 69,
+                        "endOffset": 4021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6028,
+                    "endColumn": 59,
+                    "endOffset": 6083
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 59,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6088,
+                    "endColumn": 67,
+                    "endOffset": 6151
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 67,
+                        "endOffset": 1642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6156,
+                    "endColumn": 68,
+                    "endOffset": 6220
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1510,
+                        "endColumn": 68,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6225,
+                    "endColumn": 65,
+                    "endOffset": 6286
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 65,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6291,
+                    "endColumn": 83,
+                    "endOffset": 6370
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 83,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6375,
+                    "endColumn": 79,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 79,
+                        "endOffset": 1505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 73,
+                    "endOffset": 6524
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 73,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6529,
+                    "endColumn": 75,
+                    "endOffset": 6600
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endColumn": 75,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6605,
+                    "endColumn": 59,
+                    "endOffset": 6660
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1009,
+                        "endColumn": 59,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6665,
+                    "endColumn": 57,
+                    "endOffset": 6718
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 57,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6723,
+                    "endColumn": 65,
+                    "endOffset": 6784
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 65,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6789,
+                    "endColumn": 75,
+                    "endOffset": 6860
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 75,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6865,
+                    "endColumn": 71,
+                    "endOffset": 6932
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 71,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6937,
+                    "endColumn": 58,
+                    "endOffset": 6991
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 58,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6996,
+                    "endColumn": 77,
+                    "endOffset": 7069
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 77,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 7074,
+                    "endColumn": 59,
+                    "endOffset": 7129
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 59,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 7134,
+                    "endColumn": 51,
+                    "endOffset": 7181
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 51,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7186,
+                    "endColumn": 70,
+                    "endOffset": 7252
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2841,
+                        "endColumn": 70,
+                        "endOffset": 2907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7257,
+                    "endColumn": 102,
+                    "endOffset": 7355
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2978,
+                        "endColumn": 102,
+                        "endOffset": 3076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7360,
+                    "endColumn": 65,
+                    "endOffset": 7421
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2912,
+                        "endColumn": 65,
+                        "endOffset": 2973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7426,
+                    "endColumn": 78,
+                    "endOffset": 7500
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3314,
+                        "endColumn": 78,
+                        "endOffset": 3388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7505,
+                    "endColumn": 137,
+                    "endOffset": 7638
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3467,
+                        "endColumn": 137,
+                        "endOffset": 3600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7643,
+                    "endColumn": 73,
+                    "endOffset": 7712
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3393,
+                        "endColumn": 73,
+                        "endOffset": 3462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 7717,
+                    "endColumn": 49,
+                    "endOffset": 7762
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4777,
+                        "endColumn": 49,
+                        "endOffset": 4822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 7767,
+                    "endColumn": 46,
+                    "endOffset": 7809
+                },
+                "from": {
+                    "file": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 46,
+                        "endOffset": 213
+                    }
+                }
+            }
+        ]
+    }
+]

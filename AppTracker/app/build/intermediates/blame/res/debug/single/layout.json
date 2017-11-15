@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_history_item.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\app_history_item.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_settings_preference.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\main_settings_preference.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tracker_widget_experimental.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\tracker_widget_experimental.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tracker_widget.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\tracker_widget.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_footer.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\progress_footer.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_content_with_button.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\preference_list_content_with_button.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\html_file_view.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\html_file_view.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apps_header.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\layout\\apps_header.xml"
+    }
+]

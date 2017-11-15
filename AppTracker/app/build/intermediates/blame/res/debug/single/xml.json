@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\tracker_widget_config.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\xml\\tracker_widget_config.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\tracker_widget_info.xml",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\xml\\tracker_widget_info.xml"
+    }
+]

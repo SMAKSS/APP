@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\raw\\user_guide.htm",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\raw\\user_guide.htm"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\raw\\about_body_1_free.htm",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\raw\\about_body_1_free.htm"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\raw\\about_body_2.htm",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\raw\\about_body_2.htm"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\raw\\about_body_1_premium.htm",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\raw\\about_body_1_premium.htm"
+    }
+]

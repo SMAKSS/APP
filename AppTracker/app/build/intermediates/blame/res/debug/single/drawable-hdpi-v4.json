@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\holmes_icon.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable-hdpi\\holmes_icon.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focused_application_background.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable-hdpi\\focused_application_background.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\service_notification_1.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable-hdpi\\service_notification_1.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_appwidget_error.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable-hdpi\\bg_appwidget_error.9.png"
+    },
+    {
+        "merged": "F:\\Android Project AS\\AppTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_blibbet.9.png",
+        "source": "F:\\Android Project AS\\AppTracker\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_blibbet.9.png"
+    }
+]
