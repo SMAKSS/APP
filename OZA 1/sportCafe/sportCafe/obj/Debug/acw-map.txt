@@ -1,0 +1,156 @@
+sportCafe.GoogleMapActivity, sportCafe;md5b03001906e06d0ec26204766f9252e9e.GoogleMapActivity
+sportCafe.GoogleMapActivity, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b03001906e06d0ec26204766f9252e9e.GoogleMapActivity
+sportCafe.GoogleMapActivity;md5b03001906e06d0ec26204766f9252e9e.GoogleMapActivity
+sportcafe.GoogleMapActivity;md5b03001906e06d0ec26204766f9252e9e.GoogleMapActivity
+sportCafe.RssActivity, sportCafe;md5b03001906e06d0ec26204766f9252e9e.RssActivity
+sportCafe.RssActivity, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b03001906e06d0ec26204766f9252e9e.RssActivity
+sportCafe.RssActivity;md5b03001906e06d0ec26204766f9252e9e.RssActivity
+sportcafe.RssActivity;md5b03001906e06d0ec26204766f9252e9e.RssActivity
+sportCafe.RssActivity/LoadDataAsync, sportCafe;md5b03001906e06d0ec26204766f9252e9e.RssActivity_LoadDataAsync
+sportCafe.RssActivity+LoadDataAsync, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b03001906e06d0ec26204766f9252e9e.RssActivity_LoadDataAsync
+sportCafe.RssActivity.LoadDataAsync;md5b03001906e06d0ec26204766f9252e9e.RssActivity_LoadDataAsync
+sportcafe.RssActivity_LoadDataAsync;md5b03001906e06d0ec26204766f9252e9e.RssActivity_LoadDataAsync
+sportCafe.SignUpActivity, sportCafe;md5b03001906e06d0ec26204766f9252e9e.SignUpActivity
+sportCafe.SignUpActivity, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b03001906e06d0ec26204766f9252e9e.SignUpActivity
+sportCafe.SignUpActivity;md5b03001906e06d0ec26204766f9252e9e.SignUpActivity
+sportcafe.SignUpActivity;md5b03001906e06d0ec26204766f9252e9e.SignUpActivity
+sportCafe.MainActivity, sportCafe;md5b03001906e06d0ec26204766f9252e9e.MainActivity
+sportCafe.MainActivity, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b03001906e06d0ec26204766f9252e9e.MainActivity
+sportCafe.MainActivity;md5b03001906e06d0ec26204766f9252e9e.MainActivity
+sportcafe.MainActivity;md5b03001906e06d0ec26204766f9252e9e.MainActivity
+sportCafe.LoginActivity, sportCafe;md5b03001906e06d0ec26204766f9252e9e.LoginActivity
+sportCafe.LoginActivity, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b03001906e06d0ec26204766f9252e9e.LoginActivity
+sportCafe.LoginActivity;md5b03001906e06d0ec26204766f9252e9e.LoginActivity
+sportcafe.LoginActivity;md5b03001906e06d0ec26204766f9252e9e.LoginActivity
+sportCafe.Adapter.FeedViewHolder, sportCafe;md562ee122c24f358bbf40bbac88ff0629b.FeedViewHolder
+sportCafe.Adapter.FeedViewHolder, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md562ee122c24f358bbf40bbac88ff0629b.FeedViewHolder
+sportCafe.Adapter.FeedViewHolder;md562ee122c24f358bbf40bbac88ff0629b.FeedViewHolder
+sportcafe.adapter.FeedViewHolder;md562ee122c24f358bbf40bbac88ff0629b.FeedViewHolder
+sportCafe.Adapter.FeedAdapter, sportCafe;md562ee122c24f358bbf40bbac88ff0629b.FeedAdapter
+sportCafe.Adapter.FeedAdapter, sportCafe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md562ee122c24f358bbf40bbac88ff0629b.FeedAdapter
+sportCafe.Adapter.FeedAdapter;md562ee122c24f358bbf40bbac88ff0629b.FeedAdapter
+sportcafe.adapter.FeedAdapter;md562ee122c24f358bbf40bbac88ff0629b.FeedAdapter
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+IVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout+IDrawerListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.Fragment;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager+IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.Fragment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.Media.Compat;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat+IOnActiveChangeListenerImplementor, Xamarin.Android.Support.Media.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V7.Widget.Toolbar/NavigationOnClickEventDispatcher, Xamarin.Android.Support.v7.AppCompat;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+Android.Support.V7.Widget.Toolbar+NavigationOnClickEventDispatcher, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+Android.Support.V7.Widget.Toolbar.NavigationOnClickEventDispatcher;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+Android.Support.V7.Widget.Toolbar/IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.Toolbar+IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.Toolbar.IOnMenuItemClickListenerImplementor;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+Android.Support.V7.App.ActionBar/IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar+IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar.IOnMenuVisibilityListenerImplementor;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnCameraChangeListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnCameraChangeListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnCameraChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnCameraIdleListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCameraIdleListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnCameraIdleListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCameraIdleListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnCameraIdleListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraIdleListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnCameraIdleListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraIdleListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnCameraMoveCanceledListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveCanceledListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnCameraMoveCanceledListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveCanceledListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnCameraMoveCanceledListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveCanceledListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveCanceledListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveCanceledListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnCameraMoveListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnCameraMoveListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnCameraMoveListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnCameraMoveStartedListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveStartedListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnCameraMoveStartedListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveStartedListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnCameraMoveStartedListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveStartedListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveStartedListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraMoveStartedListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnCircleClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCircleClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnCircleClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCircleClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnCircleClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCircleClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnCircleClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCircleClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnGroundOverlayClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnGroundOverlayClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnGroundOverlayClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnGroundOverlayClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnGroundOverlayClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnGroundOverlayClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnGroundOverlayClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnGroundOverlayClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnIndoorStateChangeListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnIndoorStateChangeListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnIndoorStateChangeListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnIndoorStateChangeListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnIndoorStateChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnIndoorStateChangeListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnIndoorStateChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnIndoorStateChangeListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnInfoWindowClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnInfoWindowClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnInfoWindowClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnInfoWindowCloseListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowCloseListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnInfoWindowCloseListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowCloseListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnInfoWindowCloseListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowCloseListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowCloseListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowCloseListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnInfoWindowLongClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowLongClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnInfoWindowLongClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowLongClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnInfoWindowLongClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowLongClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowLongClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnInfoWindowLongClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnMapClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnMapClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnMapClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnMapClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnMapClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMapClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnMapClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMapClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnMapLongClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnMapLongClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnMapLongClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnMapLongClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnMapLongClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMapLongClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnMapLongClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMapLongClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnMarkerClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnMarkerClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnMarkerClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnMarkerClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnMarkerClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMarkerClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnMarkerClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMarkerClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnMarkerDragListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnMarkerDragListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnMarkerDragListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnMarkerDragListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnMarkerDragListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMarkerDragListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnMarkerDragListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMarkerDragListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnMyLocationButtonClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationButtonClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnMyLocationButtonClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationButtonClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnMyLocationButtonClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationButtonClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnMyLocationButtonClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationButtonClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnMyLocationChangeListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationChangeListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnMyLocationChangeListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationChangeListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnMyLocationChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationChangeListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnMyLocationChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnMyLocationChangeListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnPoiClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnPoiClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnPoiClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnPoiClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnPoiClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnPoiClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnPoiClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnPoiClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnPolygonClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnPolygonClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnPolygonClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnPolygonClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnPolygonClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnPolygonClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnPolygonClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnPolygonClickListenerImplementor
+Android.Gms.Maps.GoogleMap/IOnPolylineClickListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnPolylineClickListenerImplementor
+Android.Gms.Maps.GoogleMap+IOnPolylineClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnPolylineClickListenerImplementor
+Android.Gms.Maps.GoogleMap.IOnPolylineClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnPolylineClickListenerImplementor
+mono.com.google.android.gms.maps.GoogleMap_OnPolylineClickListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnPolylineClickListenerImplementor

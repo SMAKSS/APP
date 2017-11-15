@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\CircleMenu\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Basement\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Base\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Maps\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\CircleMenu\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\CircleMenu.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Basement.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Base.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Other\Project\OZA 1\sportCafe\sportCafe\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Maps.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
