@@ -1,0 +1,8 @@
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\Vianbo.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\Java.Interop.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\Mono.Android.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\mscorlib.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\System.Core.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\System.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\System.Web.Services.dll
+D:\Other\Project\Applications\APP\Vianbo\Vianbo\Vianbo\obj\Debug\android\assets\System.Runtime.Serialization.dll
