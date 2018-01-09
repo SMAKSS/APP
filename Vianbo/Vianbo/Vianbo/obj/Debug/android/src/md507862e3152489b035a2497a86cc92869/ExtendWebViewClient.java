@@ -1,7 +1,7 @@
 package md507862e3152489b035a2497a86cc92869;
 
 
-public class MainActivity_HybridWebViewClient
+public class ExtendWebViewClient
 	extends android.webkit.WebViewClient
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class MainActivity_HybridWebViewClient
 		__md_methods = 
 			"n_shouldOverrideUrlLoading:(Landroid/webkit/WebView;Ljava/lang/String;)Z:GetShouldOverrideUrlLoading_Landroid_webkit_WebView_Ljava_lang_String_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Vianbo.MainActivity+HybridWebViewClient, Vianbo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MainActivity_HybridWebViewClient.class, __md_methods);
+		mono.android.Runtime.register ("Vianbo.ExtendWebViewClient, Vianbo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", ExtendWebViewClient.class, __md_methods);
 	}
 
 
-	public MainActivity_HybridWebViewClient ()
+	public ExtendWebViewClient ()
 	{
 		super ();
-		if (getClass () == MainActivity_HybridWebViewClient.class)
-			mono.android.TypeManager.Activate ("Vianbo.MainActivity+HybridWebViewClient, Vianbo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == ExtendWebViewClient.class)
+			mono.android.TypeManager.Activate ("Vianbo.ExtendWebViewClient, Vianbo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

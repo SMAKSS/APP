@@ -4,5 +4,6 @@
     <SelectedDevice>android_API-23</SelectedDevice>
     <DefaultDevice>android_API-23</DefaultDevice>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.Black.NoTitleBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
