@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Vianbo.Vianbo" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
-  <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="19" />
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:allowBackup="true" android:label="Vianbo" android:icon="@drawable/logo_v" android:name="android.app.Application" android:debuggable="true">
     <activity android:label="Vianbo" android:name="md507862e3152489b035a2497a86cc92869.MainActivity">
