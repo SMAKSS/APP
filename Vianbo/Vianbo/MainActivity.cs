@@ -24,7 +24,14 @@ namespace Vianbo
 
         public override void OnBackPressed()
         {
-            webView.GoBack();
+            if (webView.CanGoBack() == true)
+            {
+                webView.GoBack();
+            }
+            else
+            {
+                Finish();
+            }
         }
     }
 }
